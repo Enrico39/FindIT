@@ -3,6 +3,8 @@ FindIT is an iOS application designed to help users uncover hidden gems in Naple
 Utilizing Geofencing technology, the app sends notifications when the user is in proximity to a noteworthy location. 
 Additionally, FindIT employs CoreML to recognize these places and unlock captivating narratives for users to enjoy.
 
+Click [here](https://youtu.be/3WvNz53Aw1g) to see a little trailer and download the Keynote to see the full presentation.
+
 [![FindIT Trailer](previewFindIT.png)](https://youtu.be/3WvNz53Aw1g)
 
 
