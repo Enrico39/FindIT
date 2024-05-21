@@ -3,6 +3,10 @@ FindIT is an iOS application designed to help users uncover hidden gems in Naple
 Utilizing Geofencing technology, the app sends notifications when the user is in proximity to a noteworthy location. 
 Additionally, FindIT employs CoreML to recognize these places and unlock captivating narratives for users to enjoy.
 
+[![FindIT Trailer](previewFindIT.png)](https://youtu.be/3WvNz53Aw1g)
+
+
+
 ## Copyright Notice
 
 This project was created by Francesca Formisano, Francesco De Micco, Benedetta Bonaccorso, Mario Mattia Senneca, Mauro Silvestro, Lorenzo Mazza and Enrico Madonna, and all copyrights are reserved. Reproduction, distribution, or modification of this project without explicit consent from the copyright owner is prohibited.
